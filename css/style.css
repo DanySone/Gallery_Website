@@ -1,0 +1,26 @@
+body {
+	padding-right: 0px;
+	background-color: #f7f7f7;
+}
+.myfooter {
+	margin: 0 auto;
+	width: auto;
+	position: absolute;
+	bottom: 0;
+	text-align: center;
+}
+.img {
+	display: inline-block;
+    margin-right:5px;
+    border:1px solid #ccc;
+}
+
+@font-face
+{
+	font-family: CaviarDreams;
+	src: url(../font/CaviarDreams.ttf);
+}
+
+.logosite {
+	font-family: CaviarDreams;
+}
